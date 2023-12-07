@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Ephesis&family=Roboto+Mono:wght@700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    font-family: 'Roboto Mono', monospace;
+}
+
+.heading {
+    font-family: 'Ephesis', cursive;
+}
